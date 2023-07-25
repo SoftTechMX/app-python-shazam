@@ -1,0 +1,253 @@
+{
+    "matches": [
+        {
+            "id": "208574563",
+            "offset": 88.586203125,
+            "timeskew": -3.20673e-05,
+            "frequencyskew": -4.029274e-05
+        }
+    ],
+    "location": {
+        "accuracy": 0.01
+    },
+    "timestamp": 1675705961310,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "layout": "5",
+        "type": "MUSIC",
+        "key": "45041706",
+        "title": "Given Up",
+        "subtitle": "LINKIN PARK",
+        "images": {
+            "background": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/37/13/8e/37138eb2-fefc-baac-b9b7-24d9671c9b2e/0af2f17f-d9a5-4c1e-bc51-8bb12b97cc0e_ami-identity-640bb7a837fee9170cc487c37709e42e-2023-01-31T22-43-20.958Z_cropped.png/800x800cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/f5/d6/68/f5d6681a-734c-8225-aa28-418c3715b6da/dj.xkwgleci.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/f5/d6/68/f5d6681a-734c-8225-aa28-418c3715b6da/dj.xkwgleci.jpg/400x400cc.jpg",
+            "joecolor": "b:fffefcp:000007s:202023t:333238q:4c4d4e"
+        },
+        "share": {
+            "subject": "Given Up - LINKIN PARK",
+            "text": "I used Shazam to discover Given Up by LINKIN PARK.",
+            "href": "https://www.shazam.com/track/45041706/given-up",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/f5/d6/68/f5d6681a-734c-8225-aa28-418c3715b6da/dj.xkwgleci.jpg/400x400cc.jpg",
+            "twitter": "I used @Shazam to discover Given Up by LINKIN PARK.",
+            "html": "https://www.shazam.com/snippets/email-share/45041706?lang=en&country=GB",
+            "avatar": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/37/13/8e/37138eb2-fefc-baac-b9b7-24d9671c9b2e/0af2f17f-d9a5-4c1e-bc51-8bb12b97cc0e_ami-identity-640bb7a837fee9170cc487c37709e42e-2023-01-31T22-43-20.958Z_cropped.png/800x800cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/45041706"
+        },
+        "hub": {
+            "type": "APPLEMUSIC",
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "actions": [
+                {
+                    "name": "apple",
+                    "type": "applemusicplay",
+                    "id": "528975364"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https: //audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b5/0b/26/b50b265d-39ab-0e32-5cd0-75bc32b8bf04/mzaf_4433610506223458850.plus.aac.ep.m4a"
+                }
+            ],
+            "options": [
+                {
+                    "caption": "OPEN IN",
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https: //music.apple.com/gb/album/given-up/528975362?i=528975364&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/given-up/528975362?i=528975364&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "open",
+                        "providername": "applemusic"
+                    },
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "type": "open",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "applemusic"
+                },
+                {
+                    "caption": "BUY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/given-up/528975362?i=528975364&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "type": "buy",
+                        "providername": "itunes"
+                    },
+                    "image": "https: //images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "type": "buy",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "colouroverflowimage": false,
+                    "providername": "itunes"
+                }
+            ],
+            "providers": [
+                {
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:Given%20Up%20LINKIN%20PARK"
+                        }
+                    ],
+                    "type": "SPOTIFY"
+                },
+                {
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                    },
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Given+Up%27%20artist%3A%27LINKIN+PARK%27%7D"
+                        }
+                    ],
+                    "type": "DEEZER"
+                }
+            ],
+            "explicit": true,
+            "displayname": "APPLE MUSIC"
+        },
+        "sections": [
+            {
+                "type": "SONG",
+                "metapages": [
+                    {
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/37/13/8e/37138eb2-fefc-baac-b9b7-24d9671c9b2e/0af2f17f-d9a5-4c1e-bc51-8bb12b97cc0e_ami-identity-640bb7a837fee9170cc487c37709e42e-2023-01-31T22-43-20.958Z_cropped.png/800x800cc.jpg",
+                        "caption": "LINKIN PARK"
+                    },
+                    {
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/f5/d6/68/f5d6681a-734c-8225-aa28-418c3715b6da/dj.xkwgleci.jpg/400x400cc.jpg",
+                        "caption": "Given Up"
+                    }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                    {
+                        "title": "Album",
+                        "text": "Minutes to Midnight"
+                    },
+                    {
+                        "title": "Label",
+                        "text": "Warner Records"
+                    },
+                    {
+                        "title": "Released",
+                        "text": "2007"
+                    }
+                ]
+            },
+            {
+                "type": "LYRICS",
+                "text": [
+                    "Wake in a sweat again",
+                    "Another days been laid to waste",
+                    "In my disgrace",
+                    "Stuck in my head again",
+                    "Feels like Ill never leave this place",
+                    "Theres no escape",
+                    "Im my own worst enemy",
+                    "",
+                    "Ive given up",
+                    "Im sick of feelint know what to take",
+                    "Thought I was focused, but Im scared",
+                    "Im not prepared",
+                    "I hyperventilate",
+                    "Looking for help somehow, somewhere",
+                    "And no one cares",
+                    "Im my own worst enemy",
+                    "",
+                    "Ive given up",
+                    "Im sick of feeling",
+                    "Is there nothing you can say?",
+                    "Take this all away",
+                    "Im suffocating",
+                    "Tell me, what the fuck is wrong with me?",
+                    "",
+                    "Put me out of my misery",
+                    "Put me out of my misery",
+                    "Put me out of my, put me out of my fucking misery",
+                    "",
+                    "Ive given up",
+                    "Im sick of feeling",
+                    "Is there nothing you can say?",
+                    "Take this all away",
+                    "Im suffocating",
+                    "Tell me, what the fuck is wrong with me?"
+                ],
+                "url": "https: //cdn.shazam.com/lyrics/v1/en/GB/iphone/musixmatch/subtitles/895290/189/1?token=6e5cfdc9d32f490468499e51c29320a1",
+                "footer": "Writer(s): Mike Shinoda, Chester Charles Bennington, Joseph Hahn, Robert G. Bourdon, Brad Delson, Dave Farrell\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                    "lyricsid": "25510078",
+                    "providername": "musixmatch",
+                    "commontrackid": "895290"
+                }
+            },
+            {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/45041706/youtube/video?q=LINKIN+PARK+%22Given+Up%22"
+            },
+            {
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en/GB/iphone/-/tracks/track-similarities-id-45041706?startFrom=0&pageSize=20&connected=",
+                "tabname": "Related"
+            }
+        ],
+        "url": "https://www.shazam.com/track/45041706/given-up",
+        "artists": [
+            {
+                "id": "42",
+                "adamid": "148662"
+            }
+        ],
+        "isrc": "USWB11201137",
+        "genres": {
+            "primary": "Hard Rock"
+        },
+        "urlparams": {
+            "{tracktitle}": "Given+Up",
+            "{trackartist}": "LINKIN+PARK"
+        },
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/given-up/528975362?i=528975364&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en/GB/iphone/148662/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en/GB/iphone/-/tracks/track-similarities-id-45041706?startFrom=0&pageSize=20&connected=",
+        "albumadamid": "528975362"
+    },
+    "tagid": "FCE3DEAE-55B2-48E4-94A2-EE5D5BF7C550"
+}
